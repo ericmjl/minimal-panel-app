@@ -1,3 +1,4 @@
-web: panel serve --address="0.0.0.0" --port=80 
+web: panel serve --address="0.0.0.0" --port=$PORT 
 minimal-panel.ipynb 
---allow-websocket-origin="minimal-panel-app.herokuapp.com:80"
+--allow-websocket-origin=minimal-panel-app.herokuapp.com:$PORT 
+--no-browser
