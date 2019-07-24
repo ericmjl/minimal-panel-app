@@ -1,0 +1,14 @@
+name: minimal-panel
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.7
+- bokeh  # let holoviews pick
+- holoviews=1.12.3
+- hvplot
+- jupyter
+- jupyterlab
+- pandas=0.24.0
+- panel=0.6.0
+- scikit-learn=0.21.2

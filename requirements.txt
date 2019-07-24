@@ -1,0 +1,7 @@
+jupyter
+pip
+bokeh
+holoviews
+hvplot
+pandas
+scikit-learn
