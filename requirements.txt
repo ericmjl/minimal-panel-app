@@ -6,3 +6,4 @@ hvplot
 pandas
 scikit-learn
 panel
+ipython
