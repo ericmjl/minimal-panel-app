@@ -7,3 +7,5 @@ pandas
 scikit-learn
 panel
 ipython
+pyjanitor
+dask

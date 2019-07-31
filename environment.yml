@@ -13,3 +13,5 @@ dependencies:
 - panel=0.6.0
 - scikit-learn=0.21.2
 - ipython
+- pyjanitor=0.18.0
+- dask=2.1.0
