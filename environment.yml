@@ -6,6 +6,7 @@ dependencies:
 - python=3.7
 - bokeh  # let holoviews pick
 - holoviews=1.12.3
+- bokeh=1.2.0
 - hvplot
 - jupyter
 - jupyterlab
@@ -15,3 +16,4 @@ dependencies:
 - ipython
 - pyjanitor=0.18.0
 - dask=2.1.0
+- biopython=1.74
