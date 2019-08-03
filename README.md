@@ -9,6 +9,10 @@ See the full app [here](http://minimal-panel-app.herokuapp.com/minimal-panel).
 I spent a day figuring out how to make this happen at work,
 and decided to spend an evening consolidating my knowledge.
 
+## "how to use"
+
+
+
 ## anything else interesting?
 
 ### iPad development
