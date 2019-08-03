@@ -1,4 +1,5 @@
 # minimal-panel-app
+
 A pedagogical implementation of panel apps served up on a remote machine.
 
 See the full app [here](http://minimal-panel-app.herokuapp.com/minimal-panel).
