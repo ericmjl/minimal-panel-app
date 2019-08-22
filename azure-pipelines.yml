@@ -18,8 +18,8 @@ jobs:
       displayName: Add conda to PATH
     - script: |
         conda env create -f environment.yml
-        source activate minimal-panel
       displayName: Create environment
     - script: | 
+        source activate minimal-panel
         make test
       displayName: Run tests
