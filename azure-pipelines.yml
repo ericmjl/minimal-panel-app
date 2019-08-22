@@ -21,5 +21,6 @@ jobs:
       displayName: Create environment
     - script: | 
         source activate minimal-panel
+        python -m ipykernel install --user --name minimal-panel
         make test
       displayName: Run tests
