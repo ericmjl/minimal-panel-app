@@ -11,7 +11,9 @@ and decided to spend an evening consolidating my knowledge.
 
 ## "how to use"
 
-
+```
+git clone https://github.com/ericmjl/minimal-panel-app
+```
 
 ## anything else interesting?
 
