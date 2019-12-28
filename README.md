@@ -40,3 +40,14 @@ I got around this by pickling the models individually,
 and only loading them when needed.
 I also minimized disk usage by using gzip
 when pickling the files.
+
+### multi-app hosting
+
+There are multiple "apps" that are being hosted by a single Panel server here.
+Each "app" is basically one Jupyter notebook.
+In each notebook, I define a self-contained, hostable unit
+that an end-user can interact with.
+One of them is the homepage,
+written using Panel's tooling just to prove the point,
+but the others are actual user-facing interfaces
+that provide a way to interact with data or a machine learning model.
