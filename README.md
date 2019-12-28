@@ -2,7 +2,7 @@
 
 A pedagogical implementation of panel apps served up on a remote machine.
 
-See the full app [here](http://minimal-panel-app.herokuapp.com/minimal-panel).
+See the full app [here](http://minimal-panel-app.herokuapp.com/home).
 
 ## why this project exists
 
