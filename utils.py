@@ -1,3 +1,9 @@
+"""
+Dumping ground for functions that I don't want polluting the notebook.
+
+Can be refactored at a later date, when it gets a bit unwieldy.
+"""
+
 import numpy as np
 
 molecular_weights = {
@@ -77,3 +83,16 @@ def predict(model, sequence):
     
     seqfeat = featurize_sequence_(sequence)
     return model.predict(seqfeat)
+
+
+# App Navigation
+
+import panel as pn
+
+navbar = """
+[Home](/home) | 
+[HIV Resistance](/hiv-resistance) | 
+[Iris](/iris)
+"""
+
+navpane = pn.pane.Markdown(navbar)
