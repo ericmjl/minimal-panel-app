@@ -50,4 +50,4 @@ that an end-user can interact with.
 One of them is the homepage,
 written using Panel's tooling just to prove the point,
 but the others are actual user-facing interfaces
-that provide a way to interact with data or a machine learning model.
+that provide a way to interact with either data or a machine learning model.
