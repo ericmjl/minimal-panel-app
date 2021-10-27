@@ -1,6 +1,6 @@
 # For deployment environment.
 bokeh==1.2.0
-dask==2.6.0
+dask==2021.10.0
 holoviews==1.12.3
 hvplot
 ipython
